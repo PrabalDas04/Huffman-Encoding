@@ -1,0 +1,22 @@
+## Project title
+Huffman Encoding Scheme (for a given text input).
+
+## Author
+Prabal Das
+
+## Date and Place
+ISI, Kolkata, March 2024 
+
+## Description
+1. Huffman encoding scheme is used for compress a given file by encoding it.
+2. Main idea of the scheme is to take the min two probabilities and make two children of a new parent node.
+3. We have created an object node and recursively construct the tree.
+4. All the definition of the function is in "My_Module_huffman.py" file and "Huffman_Encoding.py" is the driver code.
+4. input file: Huffman_input.txt and output file : Huffman_output.txt, which contains the encoding of the input file.
+
+## License
+This project is licensed under the MIT License.
+
+## Happy Coding!!
+Thank you for exploring this project. I hope this project proves valuable to you. Your contributions and feedback are greatly appreciated as I continue to evolve and improve. Happy coding!
+  
